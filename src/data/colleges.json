@@ -1,0 +1,122 @@
+[
+  {
+    "rank": 1,
+    "name": "Indian Institute of Technology Bombay",
+    "exam_fee": "INR 2000",
+    "reviews": 1250,
+    "rating": 4.8,
+    "placement": {
+      "average_package": "INR 21,48,000",
+      "highest_package": "INR 1,98,00,000"
+    },
+    "featured": false
+  },
+  {
+    "rank": 2,
+    "name": "Indian Institute of Technology Delhi",
+    "exam_fee": "INR 2500",
+    "reviews": 980,
+    "rating": 4.6,
+    "placement": {
+      "average_package": "INR 25,82,000",
+      "highest_package": "INR 2,00,00,000"
+    },
+    "featured": false
+  },
+  {
+    "rank": 3,
+    "name": "Indian Institute of Management Bangalore",
+    "exam_fee": "INR 3000",
+    "reviews": 1500,
+    "rating": 4.7,
+    "placement": {
+      "average_package": "INR 30,00,000",
+      "highest_package": "INR 1,49,00,000"
+    },
+    "featured": false
+  },
+  {
+    "rank": 4,
+    "name": "Indian Institute of Technology Kanpur",
+    "exam_fee": "INR 2200",
+    "reviews": 890,
+    "rating": 4.5,
+    "placement": {
+      "average_package": "INR 20,00,000",
+      "highest_package": "INR 1,75,00,000"
+    },
+    "featured": false
+  },
+  {
+    "rank": 5,
+    "name": "Indian Institute of Science Bangalore",
+    "exam_fee": "INR 2600",
+    "reviews": 780,
+    "rating": 4.9,
+    "placement": {
+      "average_package": "INR 28,00,000",
+      "highest_package": "INR 1,85,00,000"
+    },
+    "featured": true
+  },
+  {
+    "rank": 6,
+    "name": "Indian Institute of Technology Madras",
+    "exam_fee": "INR 2400",
+    "reviews": 1050,
+    "rating": 4.6,
+    "placement": {
+      "average_package": "INR 23,00,000",
+      "highest_package": "INR 1,90,00,000"
+    },
+    "featured": false
+  },
+  {
+    "rank": 7,
+    "name": "Xavier School of Management (XLRI) Jamshedpur",
+    "exam_fee": "INR 3500",
+    "reviews": 1340,
+    "rating": 4.7,
+    "placement": {
+      "average_package": "INR 26,00,000",
+      "highest_package": "INR 1,80,00,000"
+    },
+    "featured": true
+  },
+  {
+    "rank": 8,
+    "name": "National Institute of Technology Tiruchirappalli",
+    "exam_fee": "INR 1800",
+    "reviews": 670,
+    "rating": 4.3,
+    "placement": {
+      "average_package": "INR 19,00,000",
+      "highest_package": "INR 1,60,00,000"
+    },
+    "featured": false
+  },
+  {
+    "rank": 9,
+    "name": "Indian Institute of Technology Kharagpur",
+    "exam_fee": "INR 2300",
+    "reviews": 900,
+    "rating": 4.5,
+    "placement": {
+      "average_package": "INR 22,00,000",
+      "highest_package": "INR 1,88,00,000"
+    },
+    "featured": false
+  },
+  {
+    "rank": 10,
+    "name": "Birla Institute of Technology and Science (BITS) Pilani",
+    "exam_fee": "INR 3200",
+    "reviews": 1120,
+    "rating": 4.6,
+    "placement": {
+      "average_package": "INR 24,50,000",
+      "highest_package": "INR 1,92,00,000"
+    },
+    "featured": true
+  }
+]

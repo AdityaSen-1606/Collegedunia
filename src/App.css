@@ -1,0 +1,147 @@
+/* App.css */
+.header {
+  text-align: center;
+  padding: 20px 0;
+  background-color: #f8f9fa;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow */
+  border-bottom: 2px solid #e9ecef; /* Adds a bottom border for emphasis */
+}
+
+.header h1 {
+  font-family: 'Roboto', sans-serif; /* Uses a modern, clean font */
+  font-size: 2.5rem;
+  color: #343a40; /* Darker color for better contrast */
+  margin: 0;
+  letter-spacing: 1.5px; /* Slight spacing for a refined look */
+}
+
+@media (max-width: 768px) {
+  .header h1 {
+    font-size: 2rem; /* Responsive font size for smaller screens */
+  }
+}
+
+
+.college-actions {
+  margin-top: 16px;
+}
+
+.apply-btn, .brochure-btn {
+  display: inline-block;
+  padding: 2px 4px;
+  margin-right: 10px;
+  border: none;
+  font-size: 10px;
+  color: white;
+  cursor: pointer;
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+.apply-btn {
+  margin-right:20px;
+  margin-left:500px;
+  background-color: #ff5722; /* Orange color for Apply Now */
+}
+
+.brochure-btn {
+  margin-left: 100px;
+  background-color: #4caf50; /* Green color for Download Brochure */
+}
+
+.apply-btn:hover {
+  background-color: #e64a19; /* Darker shade for hover */
+}
+
+.brochure-btn:hover {
+  background-color: #388e3c; /* Darker shade for hover */
+}
+
+
+button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 12px;
+  padding: 0;
+}
+
+button:focus {
+  outline: none;
+}
+
+th {
+  position: relative;
+  padding-right: 20px;
+}
+
+th button {
+  position: absolute;
+  right: 5px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  font-family: Arial, sans-serif;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #f2f2f2;
+  color: #333;
+  font-weight: bold;
+}
+
+td {
+  font-size: 14px;
+}
+
+tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+tr:hover {
+  background-color: #ddd;
+}
+
+header {
+  text-align: center;
+  padding: 10px 0;
+  background-color: #007bff;
+  color: white;
+}
+
+input[type="text"] {
+  width: 200px;
+  padding: 8px;
+  font-size: 16px;
+  margin-right: 20px;
+}
+
+.featured-tag {
+  /* position: absolute; */
+  top: -5px;
+  left: -5px;
+  background-color: #fd891c;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border-radius: 3px;
+}
+
+.college-featured-row {
+  background-color: #ffe6e6;
+}
+
+
+
